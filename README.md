@@ -31,7 +31,7 @@ Banco de dados Utilizado: SQLite
 
 📸 Demonstração
 --- 
-![Demonstração da lista de tarefas](Imagem/Tarefa.png)
+![Demonstração da lista de tarefas](Imagem/Tarefas.png)
 
 
 
