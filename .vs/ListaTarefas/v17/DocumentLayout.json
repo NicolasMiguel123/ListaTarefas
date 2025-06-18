@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nicolas.mssilva1\\source\\repos\\ListaTarefas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64385C6C-DDFA-4A09-8D3E-5FD73F6DDED0}|ListaTarefas\\ListaTarefas.csproj|C:\\Users\\nicolas.mssilva1\\source\\repos\\ListaTarefas\\listatarefas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64385C6C-DDFA-4A09-8D3E-5FD73F6DDED0}|ListaTarefas\\ListaTarefas.csproj|solutionrelative:listatarefas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64385C6C-DDFA-4A09-8D3E-5FD73F6DDED0}|ListaTarefas\\ListaTarefas.csproj|C:\\Users\\nicolas.mssilva1\\source\\repos\\ListaTarefas\\listatarefas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64385C6C-DDFA-4A09-8D3E-5FD73F6DDED0}|ListaTarefas\\ListaTarefas.csproj|solutionrelative:listatarefas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64385C6C-DDFA-4A09-8D3E-5FD73F6DDED0}|ListaTarefas\\ListaTarefas.csproj|c:\\users\\nicolas.mssilva1\\source\\repos\\listatarefas\\listatarefas\\model\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64385C6C-DDFA-4A09-8D3E-5FD73F6DDED0}|ListaTarefas\\ListaTarefas.csproj|solutionrelative:listatarefas\\model\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tarefa.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.mssilva1\\source\\repos\\ListaTarefas\\ListaTarefas\\Model\\Tarefa.cs",
+              "RelativeDocumentMoniker": "ListaTarefas\\Model\\Tarefa.cs",
+              "ToolTip": "C:\\Users\\nicolas.mssilva1\\source\\repos\\ListaTarefas\\ListaTarefas\\Model\\Tarefa.cs",
+              "RelativeToolTip": "ListaTarefas\\Model\\Tarefa.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwB8AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T18:39:17.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.mssilva1\\source\\repos\\ListaTarefas\\ListaTarefas\\Form1.cs",
+              "RelativeDocumentMoniker": "ListaTarefas\\Form1.cs",
+              "ToolTip": "C:\\Users\\nicolas.mssilva1\\source\\repos\\ListaTarefas\\ListaTarefas\\Form1.cs",
+              "RelativeToolTip": "ListaTarefas\\Form1.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwC0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T17:31:42.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nicolas.mssilva1\\source\\repos\\ListaTarefas\\ListaTarefas\\Form1.cs",
+              "RelativeDocumentMoniker": "ListaTarefas\\Form1.cs",
+              "ToolTip": "C:\\Users\\nicolas.mssilva1\\source\\repos\\ListaTarefas\\ListaTarefas\\Form1.cs [Design]",
+              "RelativeToolTip": "ListaTarefas\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T17:06:04.786Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
